@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+h1{
+    font-family: 'Federo', sans-serif !important;
+}
+.logoText{
+    font-family: 'Federo', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+.main-nav a, .nav-btn{
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+}
+
+.hero-btn:hover i{
+    padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
